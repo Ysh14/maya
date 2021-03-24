@@ -3,7 +3,11 @@ second line of code
 third line of code
 fourth line of code
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 fifth line of code
+>>>>>>> new
+=======
+fifth line of code.
 >>>>>>> new
